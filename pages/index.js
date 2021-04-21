@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>HULU CLONE WITH NEXTJS</title>
+        <title>HULU CLONE WITH NEXT JS</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
